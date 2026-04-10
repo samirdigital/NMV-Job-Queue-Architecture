@@ -1,6 +1,8 @@
 # Job Queue Architecture
 
-This folder documents the two-tier inference routing and queue management system for notmyvoice.ai. This is not the full code for NotMyVoice.ai, but rather excerpts relevant to this specific architecture.
+This folder documents the two-tier inference routing and queue management system for notmyvoice.ai. This was infrastructure used in production for 1,000+ users.
+
+This is not the full code for NotMyVoice.ai, but rather excerpts relevant to this specific architecture.
 
 Any questions? hi[!]samir.cv
 
